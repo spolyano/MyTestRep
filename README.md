@@ -92,8 +92,5 @@ console.log(foo(5));
 
 [link with title](https://ya.ru/ "Тайтл при наведении")
 
-с спец.символами
-[link text](https://ppch.sfera.org/sourcecode/projects/spolyano_test/repos/MyTestRep/code/browse/branch/fix%2Fsomechange/README.md)
-
-
+[Относительная ссылка на рид-ми](./README.md)
 
