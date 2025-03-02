@@ -1,2 +1,2 @@
-let it = "bee2";
+let it = "conflict";
 new string
