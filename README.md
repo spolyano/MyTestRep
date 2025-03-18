@@ -11,7 +11,7 @@
 
 
 ## Horizontal Rules
-
+## Horizontal Rules
 ___
 
 ---
@@ -33,6 +33,7 @@ test.. test... test..... test?..... test!....
 
 
 ## Emphasis
+## Emphasis
 
 **This is bold text**
 
@@ -46,13 +47,14 @@ _This is italic text_
 
 
 ## Blockquotes
-
+## Blockquotes
 
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
 
+## Lists
 ## Lists
 
 Unordered
@@ -82,6 +84,7 @@ Start numbering with offset:
 
 
 ## Code
+## Code
 
 Inline `code`
 
@@ -110,6 +113,7 @@ console.log(foo(5));
 ```
 
 ## Tables
+## Tables
 
 | Option | Description |
 | ------ | ----------- |
@@ -126,6 +130,7 @@ Right aligned columns
 | ext    | extension to be used for dest files. |
 
 
+## Links
 ## Links
 
 [link text](http://dev.nodeca.com)
@@ -149,6 +154,7 @@ With a reference later in the document defining the URL location:
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 
+## Plugins
 ## Plugins
 
 The killer feature of `markdown-it` is very effective support of
