@@ -22,3 +22,6 @@ https://ppch-infra.sfera.org/orchestration/dashboard/PPSC/project/9a1d43f6-f580-
 /file.txt
 
 [Отн. ссылка](/file.txt)
+
+
+[Ссылка](./general/readme.md)
