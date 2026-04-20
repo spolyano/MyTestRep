@@ -1,2 +1,2 @@
-let it = "snow1";
+let it = "snow";
 new string
